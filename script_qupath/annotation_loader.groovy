@@ -3,6 +3,7 @@ import qupath.lib.objects.PathObjects
 import qupath.lib.roi.ROIs
 import qupath.lib.common.ColorTools
 import qupath.lib.gui.dialogs.Dialogs
+import qupath.lib.objects.classes.PathClassFactory
 
 
 // Remove all detections
